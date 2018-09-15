@@ -12,7 +12,7 @@ source:
   sha256: 4749fd76a8a26dc7d8871bc97cc2c16cfa0c933f984a13128e94f464f417531a
 
 build:
-  number: 3000
+  number: 4000
 
 {% if VC_VERSION == "" %}
   skip: true                 # [win]
